@@ -1,0 +1,7 @@
+# Event ID 4625 Investigations
+
+Collection of Windows Event ID 4625 failed logon investigations performed in a Wazuh home lab.
+
+## Investigations
+
+- Investigation-01-Non-Existent-User-Account
