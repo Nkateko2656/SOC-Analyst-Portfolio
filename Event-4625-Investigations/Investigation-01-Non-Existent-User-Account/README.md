@@ -13,7 +13,7 @@ Investigate a Windows Event and determine whether this was a failed logon attemp
 
 - Event ID: 4625
 - IP: 192.168.0.231
-- TargeT Account: Fakeuser
+- Target Account: Fakeuser
 - Failure Reason: Unknown username or password
 
 ## Investigation 
@@ -28,6 +28,6 @@ which signifies that the specified user account does not exist. The overall risk
 The attempts originate from the localhost::1, this suggests that the authentication requests were locally generated rather than
 remote external source.
 
-Futher investigation is recommended to determine whether these events were caused by user error,
+Further investigation is recommended to determine whether these events were caused by user error,
 misconfigured software, scheduled tasks or unauthorized account enumeration activity.
 
