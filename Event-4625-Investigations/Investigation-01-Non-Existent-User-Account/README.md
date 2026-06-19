@@ -15,6 +15,8 @@ Investigate a Windows Event and determine whether this was a failed logon attemp
 - IP: 192.168.0.231
 - Target Account: Fakeuser
 - Failure Reason: Unknown username or password
+- Total Attempts: 10
+- Timeframe: 35 Seconds
 
 ## Investigation 
 
