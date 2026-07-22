@@ -20,7 +20,7 @@ Investigate failed logons from a valid account but wrong or incorrect passwords.
 
 ## Investigation 
 
-Multiple authentication attempts were detected from a localhost IP targeting account TestUser. A total of 10 failed logon attempts occurred within the timeframe of 39 seconds.
+Multiple failed authentication attempts were detected from a localhost IP targeting account TestUser. A total of 10 failed logon attempts occurred within the timeframe of 39 seconds.
 No successful logon was observed from this IP.
 
 This pattern suggests possible brute force activity. This may also be behavior of password spraying.
