@@ -20,7 +20,7 @@ Investigate a Windows Event and determine whether this was a failed logon attemp
 
 ## Investigation 
 
-Multiple authentication attempts were detected from IP 192.168.0.231 targeting account Fakeuser. A total of 10 failed logon attempts
+Multiple failed authentication attempts were detected from IP 192.168.0.231 targeting account Fakeuser. A total of 10 failed logon attempts
 occurred within the timeframe of 35 seconds.
 No successful logon was observed from this IP.
 
