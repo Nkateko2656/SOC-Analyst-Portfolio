@@ -1,11 +1,11 @@
 # Event 4688
 <img width="1366" height="768" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/9801f56e-c005-4533-a5a8-e58c4d756388" />
 
-##Alert: 
+## Alert
 
 Event ID 4688 - Process creation
 
-##Investigation: 
+## Investigation 
 Reviewed process creation event. Event ID 4688 was launched by splunk-optimize.exe under the NT SERVICE\Splunkd acccount.
 
 ## Findings 
