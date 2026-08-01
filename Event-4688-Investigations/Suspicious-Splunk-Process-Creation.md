@@ -1,4 +1,6 @@
-## Alert: Event ID 4688 - Process creation event
+## Alert
+
+Event ID 4688 - Process creation event
 
 ## Investigation
 Reviewed process creation event. Event ID 4688 was launched by splunk-optimize.exe under the NT SERVICE\Splunkd.
